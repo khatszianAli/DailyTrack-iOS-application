@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct DailyTrackApp: App {
+    @StateObject private var habitViewModel = HabitViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HabitListView()
+               .environmentObject(habitViewModel)
+               .onAppear {
+                   NotificationManager.shared.requestAuthorization()
+               }
         }
     }
 }
