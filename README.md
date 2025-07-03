@@ -1,9 +1,11 @@
 # DailyTrack 
 
 Простой и удобный iOS-трекер привычек с ежедневными напоминаниями.
-![IMG_5095](https://github.com/user-attachments/assets/8b4c72bb-875b-4d10-b5ba-022f1a31e9f8)
+![openart-image_GDU6iHkh_1751544882710_raw](https://github.com/user-attachments/assets/a5ae684a-a2c9-48b7-a8db-92acfeac8b0e)
+
 
 ---
+![IMG_5104](https://github.com/user-attachments/assets/a80f4be7-8788-49d4-a90f-42489200b72c)
 
 DailyTrack — это приложение для iOS, которое помогает пользователям:
 - Создавать и настраивать привычки (например, пить воду, читать).
@@ -21,15 +23,19 @@ DailyTrack — это приложение для iOS, которое помог
 - **Уведомления:** UNUserNotificationCenter  
 - **Логика работы с датами:** Calendar, Date, DateComponents  
 - **Управление состоянием:** `@State`, `@Binding`, `@ObservedObject`  
-![IMG_5097](https://github.com/user-attachments/assets/a3fda49b-d6d3-4367-b038-c17b12fc0c61)
+![IMG_5105](https://github.com/user-attachments/assets/fceccb5c-15b0-4529-89e5-582560f2f865)
+
+
+![IMG_5103](https://github.com/user-attachments/assets/14253645-c41e-44c5-a48c-6ab3d313f368)
+
 
 # DailyTrack
 
 A simple and convenient iOS habit tracker with daily reminders.
-![IMG_5095](https://github.com/user-attachments/assets/8b4c72bb-875b-4d10-b5ba-022f1a31e9f8)
+![openart-image_GDU6iHkh_1751544882710_raw](https://github.com/user-attachments/assets/a5ae684a-a2c9-48b7-a8db-92acfeac8b0e)
 
 ---
-
+![IMG_5104](https://github.com/user-attachments/assets/a80f4be7-8788-49d4-a90f-42489200b72c)
 DailyTrack is an iOS app that helps users:
 - Create and customize habits (e.g. drink water, read).
 - Mark habit completion day by day.
@@ -46,4 +52,8 @@ DailyTrack is an iOS app that helps users:
 - **Notifications:** UNUserNotificationCenter
 - **Date logic:** Calendar, Date, DateComponents
 - **State management:** `@State`, `@Binding`, `@ObservedObject`
-![IMG_5097](https://github.com/user-attachments/assets/a3fda49b-d6d3-4367-b038-c17b12fc0c61)
+![IMG_5105](https://github.com/user-attachments/assets/fceccb5c-15b0-4529-89e5-582560f2f865)
+
+
+![IMG_5103](https://github.com/user-attachments/assets/14253645-c41e-44c5-a48c-6ab3d313f368)
+
